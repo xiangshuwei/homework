@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ProgressDialog</string>
+    <string name="hello">hello world,ProgressDialog</string>
+</resources>
