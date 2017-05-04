@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MyIntentYinShi</string>
+    <string name="notify_incorrect_phonenum">您输入的号码不正确，请重新输入</string>
+</resources>
